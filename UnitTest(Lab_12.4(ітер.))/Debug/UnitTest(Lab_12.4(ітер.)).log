@@ -1,0 +1,4 @@
+﻿  UnitTest(Lab_12.4(ітер.)).cpp
+     Creating library E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.4(?тер.)\Debug\UnitTest(Lab_12.4(?тер.)).lib and object E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.4(?тер.)\Debug\UnitTest(Lab_12.4(?тер.)).exp
+LINK : warning LNK4232: name UnitTest(Lab_12.4(?тер.)).dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest(Lab_12.4(ітер.)).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_12.4(ітер.)\Debug\UnitTest(Lab_12.4(ітер.)).dll
